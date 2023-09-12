@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "flowering=false": {
+      "model": "melp:block/melp"
+    },
+    "flowering=true": {
+      "model": "melp:block/melp_flowering"
+    }
+  }
+}
